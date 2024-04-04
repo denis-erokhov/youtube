@@ -1,4 +1,4 @@
-testing file
+
 unununtesting line
 789.
 add line
@@ -6,3 +6,4 @@ i learning git commands
  команда echo позволяет записать новую строку в файл
 commit test
 new branch line
+new line for gui
