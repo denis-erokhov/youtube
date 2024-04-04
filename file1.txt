@@ -3,3 +3,4 @@
 add line
 i learning git commands
  команда echo позволяет записать новую строку в файл
+commit test
